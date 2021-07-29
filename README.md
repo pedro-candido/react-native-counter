@@ -1,4 +1,4 @@
-# Counter
+# CounterApp 
 <p align="center">
   <img src="https://i.imgur.com/PdHFkvk.gif" alt="Preview CounterApp" />
 </p>
