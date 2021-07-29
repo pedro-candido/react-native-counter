@@ -9,17 +9,9 @@ export const CounterButtons = () => {
   const navigate = useNavigation()
   const dispatch = useDispatch()
 
-  const handleNavigate = () => {
-    navigate.goBack()
-  }
-
-  const handleSum = () => {
-    dispatch(sumCount(1))
-  }
-
-  const handleSubt = () => {
-    dispatch(subtCount(1))
-  }
+  const handleNavigate = () => navigate.goBack()
+  const handleSum = () => dispatch(sumCount(1))
+  const handleSubt = () => dispatch(subtCount(1))
 
   return (
     <SafeAreaView>
