@@ -1,7 +1,7 @@
-import { combineReducers } from '@reduxjs/toolkit';
+import { combineReducers } from '@reduxjs/toolkit'
 
-import CounterReducer from './Counter.reducer';
+import CounterReducer from './Counter.reducer'
 
-const reducer = combineReducers({CounterReducer});
+const reducer = combineReducers({ CounterReducer })
 
-export default reducer;
+export default reducer
