@@ -11,16 +11,14 @@
 
 ### 📖 Planejamento
   - [x] Estrutura do projeto 
-  - [x] Implementar styled-components
   - [x] Implementar Redux para troca de informações entre páginas/components
   - [ ] Implementar Storybook
   - [ ] Implementar testes
-  - [ ] Implementar Typescript
+  - [x] Implementar Typescript
 
 ### 💻 Tecnologias utilizadas
-- React
+- React Native
 - Typescript
-- Styled-components
 - Redux
 
 ### ❕ Obs
